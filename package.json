@@ -1,0 +1,23 @@
+{
+  "name": "backend-dsa-stacks-queues",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon node.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alicehsing/backend-dsa-stacks-queues.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alicehsing/backend-dsa-stacks-queues/issues"
+  },
+  "homepage": "https://github.com/alicehsing/backend-dsa-stacks-queues#readme",
+  "dependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
